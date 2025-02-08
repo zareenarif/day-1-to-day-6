@@ -1,0 +1,5 @@
+Test Case ID,Test Case Description,Test Steps,Expected Result,Actual Result,Status,Severity Level,Assigned To,Remarks
+1,TC001,Validate product listing page,Open product page > Verify products,Products displayed successfully,Products displayed successfully,Low,Low,No issues found
+2,TC002,Test API error handling,Disconnect Gorq Query > Refresh page,Show error message on screen,Show Error message on screen,Low,Low,Handled gracefully
+3,TC003,Check cart functionality,Add product to cart > Navigate to cart,Displaying product on cart,Displaying product on cart,Medium,Medium,Successfully
+4,TC004,Ensure responsiveness on mobile,Inspect> Device> Toolbar>Select mobile device,Showing content according to the mobile,Showing content according to the mobile,Medium,Medium,Responsive
